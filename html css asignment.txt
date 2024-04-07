@@ -1,0 +1,13 @@
+Ans1: html is a hyper text markup language. which is design web page layout and body for help his tag and attribute simple way i can say that the html language stuctured provided to the web page 
+
+
+Ans2: css is a cascading style sheet.this is provided styling and design to the web page, its language use for make a web pages attractive and good looking As-> as a example the car is so attractive and colorful design which is looking so good.
+
+
+Ans3: which part of web page looking person that is frontend. and which is not looking that is backend. we are looking in web page as a image text link and other thing is frontend part and other hand that the process to be in backend which is not see that is backend. 
+
+
+Ans4: javascript is a scripting language that is perform to the functionalty and many tasks as car engine break and many thing when provided action .
+
+
+Ans5: which program and design all of device supportable running on comfortable to all devices its responsive website As: as a web page is supportable all of device as a phone tablet and laotop desktop.
